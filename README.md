@@ -1,4 +1,4 @@
-# AVI
+# About AVI program
 To create video and audio files from an AVI file
 
 #Purpose
